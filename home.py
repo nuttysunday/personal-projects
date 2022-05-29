@@ -45,4 +45,6 @@ with st.expander("Free lancing (Research Paper): Protocol-Based-Deep-Intrusion-D
     st.write("Technologies Used: Tensorflow, Deep learning, RNN, LSTM, Jupyter Notebook, Upsampling")
     st.write("Github link: [link](https://github.com/nuttysunday/Protocol-Based-Deep-Intrusion-Detection-for-DoS-Normal-and-DDoS-Attacks)")
     st.write("Research Paper link: [link](https://github.com/nuttysunday/Protocol-Based-Deep-Intrusion-Detection-for-DoS-Normal-and-DDoS-Attacks/blob/main/1__Protocol-Based_Deep_Intrusion_Detection_for_DoS_and_DDoS_Attacks_Using_UNSW-NB15_and_Bot-IoT_Data-Sets.pdf)")
-    
+
+st.write("Github profile: [link](https://github.com/nuttysunday)")
+st.write("Resume: [link](https://drive.google.com/file/d/1xqm1BU803i7t1jspUj_o-niWdQBS7WaI/view?usp=sharing)")
